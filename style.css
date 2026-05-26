@@ -20,7 +20,7 @@ body {
   align-items: center;
   justify-content: center;
   padding: 24px;
-  background: radial-gradient(circle at top, #e7e8e9 0%, #f4f4f5 80%);
+  background: radial-gradient(circle at top, #e7e8e9 0%, #e7e8e9 80%);
 }
 
 .game-container {
